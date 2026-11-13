@@ -1,0 +1,6 @@
+mkdir Tharun
+cd Tharun 
+git init 
+touch my_file.txt
+git add myfile.txt
+git commit -m "First commit"
